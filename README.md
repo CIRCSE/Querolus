@@ -9,6 +9,7 @@ Tokens were then linked to LEMLAT (*Passarotti et al., 2017*) through alphanumer
 The annotated text was eventually converted into the CoNLL-U and Turtle format.
 
 **How to cite**
+
 Gamba, F. 2020. Including a New Textual Resource into the LiLa Knowledge Base. Lemmatization, PoS Tagging and Linking of Querolus. MA diss., Università di Pavia.
 
 **Funding**
